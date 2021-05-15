@@ -9,6 +9,7 @@ A simple project/game I did for Arduino Nano
 * Jump wires, solder, and 2 perfboards for finshed product
 
 # Pictures
+![Image](COL040h4.jpg)
 
 # Takeaways
 I'm not super into hardware (why I'm a CS major and not an ECE major), however it was really fun to build this. It's not
