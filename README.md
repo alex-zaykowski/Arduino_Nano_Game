@@ -10,6 +10,9 @@ A simple project/game I did for Arduino Nano
 
 # Pictures
 ![Image](Images/COL040h4.jpg)
+![Image](Images/Q9ge5id2.jpg)
+![Image](Images/iraOwr4U.jpg)
+![Image](Images/XSA46Bny.jpg)
 
 # Takeaways
 I'm not super into hardware (why I'm a CS major and not an ECE major), however it was really fun to build this. It's not
